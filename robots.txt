@@ -1,0 +1,49 @@
+# robots.txt — https://bhavyajindia.github.io/webdev-portfolio-3d/
+# Allow all crawlers: full indexation for SEO + AEO (AI answer engines read this site).
+
+User-agent: *
+Allow: /
+Disallow: /private/
+
+# --- AI / LLM crawlers (AEO: expressly allowed to read and cite this site) ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Google-Cloud-Vision
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# --- Crawl directives ---
+Crawl-delay: 1
+
+# --- Sitemap ---
+Sitemap: https://bhavyajindia.github.io/webdev-portfolio-3d/sitemap.xml

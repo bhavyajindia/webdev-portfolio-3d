@@ -1,0 +1,74 @@
+# META.TXT — Machine-readable metadata for this site
+# Format: section > key: value
+# Audience: search engines, AI answer engines, crawlers, developers.
+
+[GENERAL]
+Title: Alex Carter | Full-Stack & 3D Web Developer — Portfolio
+Description: Senior full-stack web developer with 7 years of experience building 3D-driven, high-performance web experiences with React, Three.js and Node.js.
+URL: https://bhavyajindia.github.io/webdev-portfolio-3d/
+Language: en
+Locale: en_US
+Content-Type: text/html; charset=UTF-8
+Author: Alex Carter
+Owner: Alex Carter
+Last-Updated: 2026-09-17
+Version: 2.0
+
+[PERSON]
+Name: Alex Carter
+Role: Senior Full-Stack Web Developer
+Experience-Years: 7
+Location: San Francisco, California, USA
+Timezone: America/Los_Angeles (PT)
+Availability: Freelance + full-time
+Projects-Delivered: 120+
+Clients: 40+
+Rating: 4.9/5
+
+[SEO]
+Indexable: true
+Robots-Tag: index, follow, max-image-preview:large
+Canonical: https://bhavyajindia.github.io/webdev-portfolio-3d/
+Sitemap: sitemap.xml
+Robots-File: robots.txt
+Keywords: web developer, full-stack developer, 3D website, react developer, three.js developer, node.js developer, frontend developer, portfolio, san francisco web developer, hire web developer
+
+[AEO]
+Target-Engines: Google AI Overviews, ChatGPT Search, Perplexity, Bing Copilot, Claude
+Structured-Data: Person, WebSite, ProfessionalService, FAQPage, BreadcrumbList (JSON-LD)
+Visible-FAQ: https://bhavyajindia.github.io/webdev-portfolio-3d/#faq
+FAQ-Schema: https://bhavyajindia.github.io/webdev-portfolio-3d/#faq
+LLM-File: https://bhavyajindia.github.io/webdev-portfolio-3d/llms.txt
+AI-Crawlers: GPTBot, ChatGPT-User, PerplexityBot, ClaudeBot, Google-Extended, CCBot (all allowed)
+
+[CONTACT]
+Email: hello@alexcarter.dev
+Phone: +1 (415) 555-0132
+GitHub: https://github.com/alexcarter
+LinkedIn: https://linkedin.com/in/alexcarter
+Twitter: https://twitter.com/alexcarter_dev
+Response-Time: within 24 hours
+
+[HOSTING]
+Provider: GitHub Pages
+Repository: https://github.com/bhavyajindia/webdev-portfolio-3d
+Branch: main
+HTTPS: enforced
+Region: CDN (global via GitHub + Fastly)
+
+[TECH]
+Frameworks: Three.js, vanilla HTML5/CSS3/ES2020
+Design-Language: iPhone Liquid Glass (frosted glassmorphism, specular sheen)
+Fonts: Space Grotesk, Inter (Google Fonts)
+Performance: 100dvh, clamp() fluid type, GPU-accelerated 3D, responsive breakpoints down to 380px
+
+[FILES]
+index.html: main single-page application
+llms.txt: LLM-readable site summary (llmstxt.org format)
+robots.txt: crawler directives
+sitemap.xml: XML sitemap
+meta.txt: this file
+humans.txt: human-readable credits
+favicon.svg: site icon
+og-image.png: Open Graph / social share image (1200x630)
+apple-touch-icon.png: iOS home-screen icon (180x180)

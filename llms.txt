@@ -1,0 +1,69 @@
+# Alex Carter — Full-Stack & 3D Web Developer Portfolio
+
+> Alex Carter is a senior full-stack web developer (7 years of experience) based in San Francisco, specializing in 3D-driven, high-performance web experiences. This file gives AI models and LLM crawlers a concise, factual summary of the site: who Alex Carter is, what he does, his skills, experience, projects, and how to contact him.
+
+## Who Is Alex Carter?
+
+Alex Carter is a senior full-stack web developer based in San Francisco, California, with 7 years of professional experience. He builds immersive 3D e-commerce storefronts, real-time analytics platforms, and AI-powered tools for startups and enterprises. He ships React/Next.js frontends, Node.js backends, and AWS infrastructure for products used by millions of users.
+
+## Key Facts
+
+- Name: Alex Carter
+- Role: Senior Full-Stack Engineer
+- Location: San Francisco, California (works remotely, 4 time zones)
+- Experience: 7 years (2019–present)
+- Projects Delivered: 120+ for 40+ clients
+- Skills: React, Next.js, TypeScript, Node.js, GraphQL, PostgreSQL, Three.js/WebGL, Python, Docker, AWS
+- Availability: Open to freelance projects and full-time roles (replies within 24 hours)
+- Contact: hello@alexcarter.dev | +1 (415) 555-0132
+
+## Site Sections
+
+- [Home](https://bhavyajindia.github.io/webdev-portfolio-3d/#home): Hero intro, availability badge, 3D orbit visual.
+- [About](https://bhavyajindia.github.io/webdev-portfolio-3d/#about): Bio and stats — 7 years, 120+ projects, 40+ clients.
+- [Skills](https://bhavyajindia.github.io/webdev-portfolio-3d/#skills): Frontend, backend, DevOps, and design tech with proficiency meters.
+- [Projects](https://bhavyajindia.github.io/webdev-portfolio-3d/#projects): 6 featured projects (see summaries below).
+- [Experience](https://bhavyajindia.github.io/webdev-portfolio-3d/#experience): Career timeline from 2019 to present.
+- [FAQ](https://bhavyajindia.github.io/webdev-portfolio-3d/#faq): Common questions and concise answers.
+- [Contact](https://bhavyajindia.github.io/webdev-portfolio-3d/#contact): Email, phone, social links, and contact form.
+
+## Projects (Summary)
+
+- Nebula Analytics — Real-time analytics platform with 3D data visualization streaming millions of events per day. Stack: React, WebGL, Node.js.
+- Orbit Commerce — Immersive 3D e-commerce where customers rotate and inspect products before purchase; delivered +38% conversion. Stack: Next.js, Three.js, Stripe.
+- Pulse Health — Telehealth platform with secure video, live vitals streaming, and AI triage for 50k+ patients. Stack: TypeScript, WebRTC, AWS.
+- Vertex Design System — Open-source design system with 60+ components, theming engine, and full accessibility coverage.
+- DeepWorks — Collaborative workspace with live multiplayer editing, CRDT sync, and offline-first architecture.
+- Lumen AI — AI assistant platform with streaming responses, tool calling, and enterprise-grade security. Stack: Python, OpenAI, FastAPI.
+
+## Services
+
+- Custom website and web application development
+- 3D / WebGL interactive experiences
+- Full-stack architecture and API design
+- Performance optimization and modern stack migrations
+- Design systems and UI engineering
+
+## FAQ
+
+- Q: What technologies does Alex Carter specialize in? A: React, Next.js, TypeScript, Node.js, GraphQL, PostgreSQL, Python, Three.js/WebGL and AWS — full-stack products from database design to pixel-perfect UI.
+- Q: Is Alex Carter available for hire? A: Yes. He is open to freelance projects and full-time roles and replies within 24 hours.
+- Q: How much experience does Alex Carter have? A: 7 years across startups and enterprises, covering frontend, backend and DevOps, with 120+ projects for 40+ clients.
+- Q: What types of projects has he shipped? A: 3D analytics platforms, 3D e-commerce, telehealth, design systems, multiplayer workspaces and AI assistant platforms.
+- Q: Where is Alex Carter based? A: San Francisco, California; works remotely with teams across 4 time zones.
+
+## Contact
+
+- Email: hello@alexcarter.dev
+- Phone: +1 (415) 555-0132
+- GitHub: https://github.com/alexcarter
+- Location: San Francisco, CA, USA
+
+## Technical Notes
+
+- Built as a single-page application (one HTML file) with Three.js for the 3D background, CSS custom properties, and the iPhone Liquid Glass design language (frosted glassmorphism with specular highlights).
+- Files: index.html, robots.txt, sitemap.xml, meta.txt, llms.txt, favicon.svg, og-image.png, apple-touch-icon.png.
+
+## External Resources
+
+- [llms.txt specification](https://llmstxt.org/): the open format this file follows.

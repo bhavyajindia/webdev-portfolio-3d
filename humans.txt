@@ -1,0 +1,17 @@
+/* TEAM */
+Alex Carter — owner, design & code
+
+/* THANKS */
+Three.js contributors
+Google Fonts (Space Grotesk, Inter)
+GitHub Pages
+
+/* SITE */
+Language: English
+Standards: HTML5, CSS3, ES2020, JSON-LD (schema.org), WAI-ARIA
+Last updated: 2026-09-17
+Repository: https://github.com/bhavyajindia/webdev-portfolio-3d
+Design language: iPhone Liquid Glass
+
+/* DISCLAIMER */
+This is a demo portfolio persona. Contact details are placeholders.
