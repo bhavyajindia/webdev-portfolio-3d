@@ -34,7 +34,7 @@ const portfolio = {
      Leave it as-is and the Email buttons show a "not configured"
      notice instead of pretending to work.
      ---------------------------------------------------------- */
-  email: "YOUR_EMAIL_HERE",
+  email: "threegamerboiz@gmail.com",
   github: "https://github.com/bhavyajindia",
   githubUser: "bhavyajindia",
   linkedin: "https://www.linkedin.com/in/bhavya-j-121468428/",
