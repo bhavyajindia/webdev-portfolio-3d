@@ -25,7 +25,7 @@ automation and full-stack web development.
 ## Links
 
 - GitHub: https://github.com/bhavyajindia
-- LinkedIn: https://www.linkedin.com/in/bhavya-j-121468428/
+- LinkedIn: https://www.linkedin.com/in/bhavyajindia/
 - Portfolio (this site): https://bhavyajindia.github.io/webdev-portfolio-3d/
 
 ## Skills
@@ -68,4 +68,4 @@ automation and full-stack web development.
 
 - Email: threegamerboiz@gmail.com
 - GitHub: https://github.com/bhavyajindia
-- LinkedIn: https://www.linkedin.com/in/bhavya-j-121468428/
+- LinkedIn: https://www.linkedin.com/in/bhavyajindia/
