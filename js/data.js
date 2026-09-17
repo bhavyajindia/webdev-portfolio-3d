@@ -30,9 +30,7 @@ const portfolio = {
   ],
 
   /* ----------------------------------------------------------
-     CONTACT — replace YOUR_EMAIL_HERE with your real email.
-     Leave it as-is and the Email buttons show a "not configured"
-     notice instead of pretending to work.
+     CONTACT — real email for the Email buttons and contact form.
      ---------------------------------------------------------- */
   email: "threegamerboiz@gmail.com",
   github: "https://github.com/bhavyajindia",
