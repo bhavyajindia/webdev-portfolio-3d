@@ -1,69 +1,70 @@
-# Alex Carter — Full-Stack & 3D Web Developer Portfolio
+# Bhavya Jain — AI Builder & Web Developer Portfolio
 
-> Alex Carter is a senior full-stack web developer (7 years of experience) based in San Francisco, specializing in 3D-driven, high-performance web experiences. This file gives AI models and LLM crawlers a concise, factual summary of the site: who Alex Carter is, what he does, his skills, experience, projects, and how to contact him.
+> Bhavya Jain is an independent AI builder and web developer focused on modern
+> web experiences, AI-powered products, automation systems and software tools.
+> This file gives AI models and LLM crawlers a concise, factual summary of the
+> site: who Bhavya Jain is, what he does, his skills, projects, and how to
+> contact him.
 
-## Who Is Alex Carter?
+## Who Is Bhavya Jain?
 
-Alex Carter is a senior full-stack web developer based in San Francisco, California, with 7 years of professional experience. He builds immersive 3D e-commerce storefronts, real-time analytics platforms, and AI-powered tools for startups and enterprises. He ships React/Next.js frontends, Node.js backends, and AWS infrastructure for products used by millions of users.
+Bhavya Jain is an independent AI builder and web developer who creates modern
+websites, AI-powered products, automation systems and software tools. His
+current areas of exploration include AI engineering, large language model
+applications, retrieval-augmented generation, Model Context Protocol (MCP),
+automation and full-stack web development.
 
-## Key Facts
+## Identity
 
-- Name: Alex Carter
-- Role: Senior Full-Stack Engineer
-- Location: San Francisco, California (works remotely, 4 time zones)
-- Experience: 7 years (2019–present)
-- Projects Delivered: 120+ for 40+ clients
-- Skills: React, Next.js, TypeScript, Node.js, GraphQL, PostgreSQL, Three.js/WebGL, Python, Docker, AWS
-- Availability: Open to freelance projects and full-time roles (replies within 24 hours)
-- Contact: hello@alexcarter.dev | +1 (415) 555-0132
+- Name: Bhavya Jain
+- Role: AI Builder & Web Developer
+- Formats: Web, AI products, automation, software tools
+- Status: Available for selected projects
+- Website: https://bhavyajindia.github.io/webdev-portfolio-3d/
 
-## Site Sections
+## Links
 
-- [Home](https://bhavyajindia.github.io/webdev-portfolio-3d/#home): Hero intro, availability badge, 3D orbit visual.
-- [About](https://bhavyajindia.github.io/webdev-portfolio-3d/#about): Bio and stats — 7 years, 120+ projects, 40+ clients.
-- [Skills](https://bhavyajindia.github.io/webdev-portfolio-3d/#skills): Frontend, backend, DevOps, and design tech with proficiency meters.
-- [Projects](https://bhavyajindia.github.io/webdev-portfolio-3d/#projects): 6 featured projects (see summaries below).
-- [Experience](https://bhavyajindia.github.io/webdev-portfolio-3d/#experience): Career timeline from 2019 to present.
-- [FAQ](https://bhavyajindia.github.io/webdev-portfolio-3d/#faq): Common questions and concise answers.
-- [Contact](https://bhavyajindia.github.io/webdev-portfolio-3d/#contact): Email, phone, social links, and contact form.
+- GitHub: https://github.com/bhavyajindia
+- LinkedIn: https://www.linkedin.com/in/bhavya-j-121468428/
+- Portfolio (this site): https://bhavyajindia.github.io/webdev-portfolio-3d/
 
-## Projects (Summary)
+## Skills
 
-- Nebula Analytics — Real-time analytics platform with 3D data visualization streaming millions of events per day. Stack: React, WebGL, Node.js.
-- Orbit Commerce — Immersive 3D e-commerce where customers rotate and inspect products before purchase; delivered +38% conversion. Stack: Next.js, Three.js, Stripe.
-- Pulse Health — Telehealth platform with secure video, live vitals streaming, and AI triage for 50k+ patients. Stack: TypeScript, WebRTC, AWS.
-- Vertex Design System — Open-source design system with 60+ components, theming engine, and full accessibility coverage.
-- DeepWorks — Collaborative workspace with live multiplayer editing, CRDT sync, and offline-first architecture.
-- Lumen AI — AI assistant platform with streaming responses, tool calling, and enterprise-grade security. Stack: Python, OpenAI, FastAPI.
+- Web: HTML, CSS, JavaScript, React, Node.js
+- AI: LLMs, RAG, MCP, OpenRouter, AI engineering
+- Data: SQL, Supabase, APIs
+- Automation: Workflows, developer tools
+- Other: Python, Git, GitHub
 
-## Services
+## Selected Projects
 
-- Custom website and web application development
-- 3D / WebGL interactive experiences
-- Full-stack architecture and API design
-- Performance optimization and modern stack migrations
-- Design systems and UI engineering
+1. GENZO — An AI ecosystem of web tools for creators, currently in planning.
+2. AI VIBE CODEDX — An AI-first development environment concept focused on
+   turning product ideas and structured prompts into working software.
+3. GENCLIPPER — An AI-powered video clipping concept designed to identify
+   useful moments from long-form video and transform them into short-form content.
+4. TASKTRIBE — A task and productivity tracking project with structured tasks,
+   progress tracking and a modern web interface.
+5. MR MOMOS 99 — A modern restaurant website concept presenting menu, reviews,
+   location and ordering experience.
+
+## Open Source
+
+- webdev-portfolio-3d — 3D animated portfolio with liquid glass effects (this site).
+- GarlicPanic_KitchenKingdomCrisis — Game project (GDScript).
 
 ## FAQ
 
-- Q: What technologies does Alex Carter specialize in? A: React, Next.js, TypeScript, Node.js, GraphQL, PostgreSQL, Python, Three.js/WebGL and AWS — full-stack products from database design to pixel-perfect UI.
-- Q: Is Alex Carter available for hire? A: Yes. He is open to freelance projects and full-time roles and replies within 24 hours.
-- Q: How much experience does Alex Carter have? A: 7 years across startups and enterprises, covering frontend, backend and DevOps, with 120+ projects for 40+ clients.
-- Q: What types of projects has he shipped? A: 3D analytics platforms, 3D e-commerce, telehealth, design systems, multiplayer workspaces and AI assistant platforms.
-- Q: Where is Alex Carter based? A: San Francisco, California; works remotely with teams across 4 time zones.
+- Q: What does Bhavya Jain do? A: He builds websites, AI-powered products,
+  automation systems and software tools.
+- Q: What technologies does Bhavya Jain work with? A: HTML, CSS, JavaScript,
+  Python, SQL, APIs, LLMs, OpenRouter, RAG, MCP, GitHub and Supabase.
+- Q: Where can I see Bhavya Jain's projects? A: On this portfolio and on his
+  GitHub profile (https://github.com/bhavyajindia).
+- Q: How can I contact Bhavya Jain? A: Through the contact section of this
+  portfolio or via LinkedIn.
 
 ## Contact
 
-- Email: hello@alexcarter.dev
-- Phone: +1 (415) 555-0132
-- GitHub: https://github.com/alexcarter
-- Location: San Francisco, CA, USA
-
-## Technical Notes
-
-- Built as a single-page application (one HTML file) with Three.js for the 3D background, CSS custom properties, and the iPhone Liquid Glass design language (frosted glassmorphism with specular highlights).
-- Files: index.html, robots.txt, sitemap.xml, meta.txt, llms.txt, favicon.svg, og-image.png, apple-touch-icon.png.
-
-## External Resources
-
-- [llms.txt specification](https://llmstxt.org/): the open format this file follows.
+- GitHub: https://github.com/bhavyajindia
+- LinkedIn: https://www.linkedin.com/in/bhavya-j-121468428/

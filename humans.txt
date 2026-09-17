@@ -1,17 +1,10 @@
 /* TEAM */
-Alex Carter — owner, design & code
+Bhavya Jain — owner, design & code
 
 /* THANKS */
-Three.js contributors
-Google Fonts (Space Grotesk, Inter)
-GitHub Pages
+Open source community: three.js, GitHub Pages, and everyone building on the open web.
 
 /* SITE */
-Language: English
-Standards: HTML5, CSS3, ES2020, JSON-LD (schema.org), WAI-ARIA
-Last updated: 2026-09-17
-Repository: https://github.com/bhavyajindia/webdev-portfolio-3d
-Design language: iPhone Liquid Glass
-
-/* DISCLAIMER */
-This is a demo portfolio persona. Contact details are placeholders.
+Last update: 2026
+Language: en
+Standards: HTML5, CSS3, ECMAScript (ES6+), JSON-LD, WAI-ARIA
